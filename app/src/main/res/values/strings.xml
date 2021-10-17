@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">BloodBishkek</string>
+    <string name="navigation_draw_open">
+        Open navigation drawer
+    </string>
+    <string name="navigation_draw_close">
+        Close navigation drawer
+    </string>
+    <string name="_37_0312_541_913">г.Бишкек Республиканский Центр крови Адрес: 37 просп. Мира, Бишкек Телефон: 0312 541 913</string>
+    <string name="_8_0312_586_888">Инвитро Лаборатория Адрес: 8 просп. Манаса, Бишкек Телефон: 0312 586 888</string>
+    <string name="_0312_301_082">Республиканский центр СПИД Адрес: Логвиненко улице, Бишкек Телефон: 0312 301 082</string>
+    <string name="_23_725000_03132_50665">Лаборатория Бонецкого Адрес: ул. Фрунзе, 23, Кант 725000 Телефон: 03132 50665</string>
+    <string name="profi_med_78_0550_508_899">Profi Med (Профимед) Адрес: 78 Жакыпова, Кант Телефон: 0550 508 899</string>
+    <string name="grj6_rm7">Ошская Межобластная Объединенная Клиническая Больница (ОМОКБ) Адрес: GRJ6+RM7, Ош</string>
+    <string name="_03222_43360">Ошский областной наркологический центр Адрес: ул. Исанова, Ош Телефон: 03222 43360</string>
+    <string name="_723500_226_03222_24058">Лаборатория Бонецкого Адрес: 723500, 226 ул. Курманжан Датка, Ош Телефон: 03222 24058</string>
+    <string name="_82_722200_03922_52223">Лаборатория Бонецкого Адрес: ул. Асаналиева, 82, Каракол 722200 Телефон: 03922 52223</string>
+    <string name="_45_0800_111_8_888">Лаборатория Гемотест Адрес: 45 улица Кутманалиева, Каракол Телефон: 0800 111 8 888</string>
+    <string name="_724800_0312_320_303">Лаборатория Бонецкого Адрес: ул. Больничная, б/н, 724800, Сокулук Телефон: 0312 320 303</string>
+    <string name="_1_996_3134_43080_996_3134_41468_996_3134_41471">Сокулукская центральная районная больница Адрес:Кыргызстан, Сокулукский район с. Сокулук, ул. Больничная, 1 Телефон:\t+996 (3134) 43080; +996 (3134) 41468; +996 (3134) 41471;</string>
+    <string name="bishkek">г.Бишкек</string>
+    <string name="kant">г.Кант</string>
+    <string name="osh">г.Ош</string>
+    <string name="karakol">г.Каракол</string>
+    <string name="sokuluk">г.Сокулук</string>
+    <string name="recipientregist">Регистрация Получателя</string>
+    <string name="zaregchtobprodoljit">Зарегистрируйтесь чтоб продолжить</string>
+    <string name="enterpfullname">Введите имя и Фамилию</string>
+    <string name="enterage">Введите возраст</string>
+    <string name="enterphonenumber">Bведите номер телефона</string>
+    <string name="enteremail">Bведите электронную почту</string>
+    <string name="enterpassword">Введите пароль</string>
+    <string name="sighnup">Зарегестрироваться</string>
+    <string name="arleadysighnup">Уже зарегистрированы?</string>
+    <string name="registraciyadonora">Регистрация Донора</string>
+    <string name="donatblood">Пожертвуй кровь</string>
+    <string name="safelife">Спаси жизнь</string>
+    <string name="nomad_blood_donation">Nomad Blood Donation</string>
+    <string name="safelive">Спаси жизнь</string>
+    <string name="beadonororrecipient">Будь Донором или Получателем</string>
+    <string name="donor">Донор</string>
+    <string name="recipient">Получатель</string>
+    <string-array name="bloodgroups">
+        <item>выберите группу крови</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+</resources>

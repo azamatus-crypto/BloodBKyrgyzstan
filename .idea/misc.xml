@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/Desktop/BloodBishkek3/app/src/main/res/drawable/headerbackground.xml" value="0.14814814814814814" />
+        <entry key="..\:/Users/Lenovo/Desktop/BloodBishkek3/app/src/main/res/drawable/navigationselecor.xml" value="0.13518518518518519" />
+        <entry key="..\:/Users/Lenovo/Desktop/BloodBishkek3/app/src/main/res/drawable/navigaton_view_item_selected.xml" value="0.13518518518518519" />
+        <entry key="..\:/Users/Lenovo/Desktop/BloodBishkek3/app/src/main/res/drawable/useremaildraw.xml" value="0.13055555555555556" />
+        <entry key="..\:/Users/Lenovo/Desktop/BloodBishkek3/app/src/main/res/layout/activity_category_selected.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Desktop/BloodBishkek3/app/src/main/res/layout/activity_donor_registration.xml" value="0.16" />
+        <entry key="..\:/Users/Lenovo/Desktop/BloodBishkek3/app/src/main/res/layout/activity_login2.xml" value="0.16" />
+        <entry key="..\:/Users/Lenovo/Desktop/BloodBishkek3/app/src/main/res/layout/activity_mail_category.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/Desktop/BloodBishkek3/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Desktop/BloodBishkek3/app/src/main/res/layout/activity_main2.xml" value="0.16" />
+        <entry key="..\:/Users/Lenovo/Desktop/BloodBishkek3/app/src/main/res/layout/activity_profile.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Desktop/BloodBishkek3/app/src/main/res/layout/activity_recipient.xml" value="0.16" />
+        <entry key="..\:/Users/Lenovo/Desktop/BloodBishkek3/app/src/main/res/layout/activity_select_registr.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/Desktop/BloodBishkek3/app/src/main/res/layout/activity_whe_canrecive_blood.xml" value="0.3621495327102804" />
+        <entry key="..\:/Users/Lenovo/Desktop/BloodBishkek3/app/src/main/res/layout/header.xml" value="0.264" />
+        <entry key="..\:/Users/Lenovo/Desktop/BloodBishkek3/app/src/main/res/layout/user_displayed.xml" value="0.1" />
+        <entry key="..\:/Users/Lenovo/Desktop/BloodBishkek3/app/src/main/res/menu/main_menu.xml" value="0.1574074074074074" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

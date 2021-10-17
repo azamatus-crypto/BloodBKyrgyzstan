@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+        android:icon="@drawable/menu"
+        android:title="Главное"/>
+    <item android:id="@+id/sentemail"
+        android:icon="@drawable/email8"
+        android:title="Отправить почту"/>
+    <item android:id="@+id/compatible"
+        android:icon="@drawable/compatible"
+        android:title="Группа крови как у меня"/>
+    <item
+        android:title="Группы крови">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/aplus"
+                    android:icon="@drawable/aplus"
+                    android:title="A положительное"/>
+                <item android:id="@+id/aminus"
+                    android:icon="@drawable/aminus"
+                    android:title="A отрицательное"/>
+                <item android:id="@+id/abplus"
+                    android:icon="@drawable/abplus"
+                    android:title="AB положительное"/>
+                <item android:id="@+id/abminus"
+                    android:icon="@drawable/abminus"
+                    android:title="AB отрицательное"/>
+                <item android:id="@+id/oplus"
+                    android:icon="@drawable/oplus"
+                    android:title="0 положительное"/>
+                <item android:id="@+id/ominus"
+                    android:icon="@drawable/ominus"
+                    android:title="0 отрицательное"/>
+            </group>
+
+        </menu>
+    </item>
+    <item
+        android:title="Действие">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/profile"
+                    android:icon="@drawable/profilesmallpng"
+                    android:title="Профиль"/>
+                <item android:id="@+id/notifications"
+                    android:icon="@drawable/notificator"
+                    android:title="Где можно сдать и получить кровь"/>
+                <item android:id="@+id/logouts"
+                    android:icon="@drawable/logouts3"
+                    android:title="Выход"/>
+            </group>
+
+        </menu>
+    </item>
+</menu>
